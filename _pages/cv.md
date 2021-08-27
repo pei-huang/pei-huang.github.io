@@ -16,8 +16,10 @@ Education
 
 Work experience
 ======
-* December 2020 — Present: Researcher, ZEW, Mannheim, Germany
-* August 2020 — July 2021: Research Affiliate, Yale University, New Haven, USA
-* July 2017 — July 2020: Postdoctoral Research Associate, Yale University, New Haven, USA
+* December 2020 – Present: Researcher, ZEW, Mannheim, Germany
+* August 2020 – July 2021: Research Affiliate, Yale University, New Haven, USA
+* July 2017 – July 2020: Postdoctoral Research Associate, Yale University, New Haven, USA
 
-A PDF version of the CV.
+
+
+Full CV in PDF
