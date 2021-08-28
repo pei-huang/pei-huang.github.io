@@ -9,7 +9,7 @@ venue: 'Environmental Science & Technology'
 
 Kenneth Gillingham and Pei Huang
 
-![Effect of port electrification on CO2 emissions](/images/paper-2021-energy-efficiency.png "Effect of port electrification on CO2 emissions")
+![Effect of port electrification on CO2 emissions](/images/paper-2020-port-electrification.png "Effect of port electrification on CO2 emissions")
 
 ## Availability
 
