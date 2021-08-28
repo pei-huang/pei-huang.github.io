@@ -5,6 +5,8 @@ permalink: /publication/2021-port-health
 date: 2021-08-02
 venue: 'NBER Working Paper'
 ---
+{% include base_path %}
+
 Kenneth Gillingham and Pei Huang
 
 ![Marginal damage of air pollution by race](/images/paper-2021-port-health.png "Marginal damage of air pollution by race")
