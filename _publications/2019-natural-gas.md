@@ -9,16 +9,11 @@ venue: 'Energy Journal'
 
 Kenneth Gillingham and Pei Huang
 
-## Availability
-
-- [Published version (open access)](https://www.iaee.org/en/publications/ejarticle.aspx?id=3325)
-- [Final working paper](/files/2019_EJ_NG_Main.pdf)
-- [Online appendix](/files/2019_EJ_NG_SM.pdf)
+[Published version (open access)](https://www.iaee.org/en/publications/ejarticle.aspx?id=3325), [Final working paper](/files/2019_EJ_NG_Main.pdf), [Online appendix](/files/2019_EJ_NG_SM.pdf)
 
 ## Media
 
-- [Denver Post](https://www.denverpost.com/2020/01/31/colorado-natural-gas-bridge-fuel-wind-solar-xcel-tri-state/)
-- [Energy Central](https://energycentral.com/c/cp/yale-study-finds-its-renewables-are-bridge-fuel-fossil-powered-future)
+- [Denver Post](https://www.denverpost.com/2020/01/31/colorado-natural-gas-bridge-fuel-wind-solar-xcel-tri-state/), [Energy Central](https://energycentral.com/c/cp/yale-study-finds-its-renewables-are-bridge-fuel-fossil-powered-future)
 
 ## Abstract
 
