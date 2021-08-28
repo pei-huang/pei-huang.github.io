@@ -7,7 +7,7 @@ venue: 'Working Paper'
 ---
 Kenneth Gillingham and Pei Huang
 
-![Marginal damage of pollution by race](/images/paper-2021-port-health.pdf "Marginal damage of pollution by race")
+![Marginal damage of air pollution by race](/images/paper-2021-port-health.png "Marginal damage of air pollution by race")
 
 ## Availability
 
