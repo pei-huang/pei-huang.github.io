@@ -19,4 +19,5 @@ Kenneth Gillingham and Pei Huang
 This study examines the uneven effects of air pollution from maritime ports on physical and mental health across racial groups. We exploit quasi-random variation in vessels in port from weather events far out in the ocean to estimate how port traffic influences air pollution and human health. We find that one additional vessel in a port over a year leads to 3.0 hospital visits per thousand Black residents within 25 miles of the port and only 1.0 per thousand for whites. We assess a port-related environmental regulation and show that the policy can help alleviate racial inequalities in health outcomes.
 
 **Keywords**: air pollution, health, environmental justice, quasi-experiment, instrumental variables, regression discontinuity design.
+
 **JEL codes**: D63, I14, Q51, Q53, Q58, R41
