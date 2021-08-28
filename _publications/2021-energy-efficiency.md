@@ -7,12 +7,12 @@ venue: 'Science Advances'
 ---
 Kenneth Gillingham, Pei Huang, Colby Buehler, Jordan Peccia, and Drew Gentner
 
-[INSERT A FIGURE]
+![xxx](/images/paper-2021-energy-efficiency.png "Image Title")
 
 ## Versions and Availability
 
 - [Published version (open access)](https://advances.sciencemag.org/content/7/34/eabg0947)
-- [Working paper][/files/2021_SciAdv_EE_Main.pdf]
+- [Final working paper](/files/2021_SciAdv_EE_Main.pdf)
 - [Supplementary materials](/files/2021_SciAdv_EE_SM.pdf)
 
 ## Abstract
