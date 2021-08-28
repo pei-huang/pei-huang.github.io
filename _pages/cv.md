@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Environmental and Resource Economics, Texas A&M University, USA, 2015
+* Ph.D. in Environmental and Resource Economics, Texas A&M University, USA, 2015
 * B.A. in Management, Hunan Normal University, China, 2009
 
 Work experience
 ======
-* ZEW, Mannheim, Germany
+* ZEW – Leibniz Centre for European Economic Research, Germany
   * Researcher, 12/2020–Present
 * Yale University, School of the Environment, USA
   * Research Affiliate, 8/2020–7/2021
