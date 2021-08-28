@@ -9,7 +9,7 @@ venue: 'Science Advances'
 
 Kenneth Gillingham, Pei Huang, Colby Buehler, Jordan Peccia, and Drew Gentner
 
-![Avoided premature deaths](/images/paper-2021-energy-efficiency.png "Avoided premature deaths")
+![Avoided premature deaths](/images/paper-2021-energy-efficiency.png "Avoided premature deaths"){:height="336px" width="576px"}
 
 ## Availability
 

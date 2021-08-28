@@ -1,19 +1,14 @@
----
 title: "Racial Disparities in the Health Effects from Air Pollution: Evidence from Ports"
 collection: publications
 permalink: /publication/2021-port-health
 date: 2021-08-02
 venue: 'NBER Working Paper'
----
+
 {% include base_path %}
 
 Kenneth Gillingham and Pei Huang
 
-<img src="/images/paper-2021-port-health.png" alt="Marginal damage of air pollution by race" width=50% height=50%>
-
-<p><img src="https://pei-huang.github.io/images/paper-2021-port-health.png" width=50% height=50% /></p>
-
-![Marginal damage of air pollution by race](/images/paper-2021-port-health.png "Marginal damage of air pollution by race"){:height="400px" width="400px"}
+![Marginal damage of air pollution by race](/images/paper-2021-port-health.png "Marginal damage of air pollution by race"){:height="330px" width="360px"}
 
 ## Availability
 
