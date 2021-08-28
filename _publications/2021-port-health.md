@@ -9,6 +9,10 @@ Kenneth Gillingham and Pei Huang
 
 ![Marginal damage of air pollution by race](/images/paper-2021-port-health.png "Marginal damage of air pollution by race")
 
+```html
+<img src="/images/paper-2021-port-health.png" alt="Marginal damage of air pollution by race" width="200"/>
+```
+
 ## Availability
 
 - [Working paper](/files/2021_WP_Port_Health.pdf)
