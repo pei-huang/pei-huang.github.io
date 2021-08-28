@@ -13,7 +13,7 @@ author_profile: true
 
 ## Peer-Reviewed Journal Articles
 
-- [The Climate and Health Benefits from Intensive Building Energy Efficiency Improvements](/publication/2021-energy-efficiency). (2021). *Science Advances*. (with Kenneth Gillingham, Colby Buehler, Jordan Peccia, and Drew Gentner)
+- [The Climate and Health Benefits from Intensive Building Energy Efficiency Improvements](/publication/2021-energy-efficiency). (2021). *Science Advances*. (with Kenneth Gillingham et al.)
 - Long-Run Environmental and Economic Impacts of Electrifying Ports in the United States. (2020). *Environmental Science & Technology* (with Kenneth Gillingham)
 - Is Abundant Natural Gas a Bridge to a Low-Carbon Future or a Dead-end?. (2019). *Energy Journal*. (with Kenneth Gillingham)
 - Developing Precautionary Reference Points for Fishery Management Using Robust Control Theory: Application to the Chesapeake Bay Blue Crab Fishery. (2019). *Marine and Coastal Fisheries*. (with Michael Wilberg et al.)
