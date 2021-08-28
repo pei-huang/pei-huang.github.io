@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Texas A&M University"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+type: "Course"
+permalink: /teaching/tamu
+venue: "Texas A&M University, Department of Agricultural Economics"
 date: 2015-01-01
-location: "City, Country"
+location: "College Station, TX, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
