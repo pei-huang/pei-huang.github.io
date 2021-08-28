@@ -24,7 +24,7 @@ author_profile: true
 - [Developing Precautionary Reference Points for Fishery Management Using Robust Control Theory: Application to the Chesapeake Bay Blue Crab Fishery](/publication/2019-robust-fishery). (2019). *Marine and Coastal Fisheries*. (with Michael Wilberg et al.)
 - [Value of Decadal Climate Variability Information for Agriculture in the Missouri River Basin](/publication/2016-dcv). (2016). *Climatic Change*. (with Mario Fernandez et al.)
 - [An Inverse Demand System for the Differentiated Blue Crab Market in Chesapeake Bay](/publication/2015-fish-demand). (2015). *Marine Resource Economics*.
-- Management Evaluation for the Chesapeake Bay Blue Crab Fishery: An Integrated Bioeconomic Approach. (2015). *North American Journal of Fisheries Management*. (with Richard Woodward et al.)
+- [Management Evaluation for the Chesapeake Bay Blue Crab Fishery: An Integrated Bioeconomic Approach](/publication/2015-fish-management). (2015). *North American Journal of Fisheries Management*. (with Richard Woodward et al.)
 
 ## Other Publications
 

@@ -7,7 +7,7 @@ venue: 'Marine Resource Economics'
 ---
 {% include base_path %}
 
-Pei Huang 
+Pei Huang
 
 ## Availability
 
