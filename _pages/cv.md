@@ -16,10 +16,12 @@ Education
 
 Work experience
 ======
-* December 2020 – Present: Researcher, ZEW, Mannheim, Germany
-* August 2020 – July 2021: Research Affiliate, Yale University, New Haven, USA
-* July 2017 – July 2020: Postdoctoral Research Associate, Yale University, New Haven, USA
+* ZEW, Mannheim, Germany
+  * Researcher, 12/2020–Present
+* Yale University, School of the Environment, USA
+  * Research Affiliate, 8/2020–7/2021
+  * Postdoctoral Associate, 7/2017–7/2020
 
 
 
-Full CV in PDF
+Full [CV](http://pei-huang.github.io/files/pei-huang-cv.pdf) in PDF
