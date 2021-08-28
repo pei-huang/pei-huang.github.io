@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * Ph.D. in Environmental and Resource Economics, Texas A&M University, USA, 2015
 * B.A. in Management, Hunan Normal University, China, 2009
 
-Work experience
-======
+## Experience
+
 * ZEW – Leibniz Centre for European Economic Research, Germany
   * Researcher, 12/2020–Present
 * Yale University, School of the Environment, USA
