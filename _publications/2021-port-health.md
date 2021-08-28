@@ -1,8 +1,10 @@
+---
 title: "Racial Disparities in the Health Effects from Air Pollution: Evidence from Ports"
 collection: publications
 permalink: /publication/2021-port-health
 date: 2021-08-02
 venue: 'NBER Working Paper'
+---
 
 {% include base_path %}
 
