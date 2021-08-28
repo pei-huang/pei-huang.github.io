@@ -9,11 +9,11 @@ author_profile: true
 
 ## Working Papers
 
-- Racial Disparities in the Health Effects from Air Pollution: Evidence from Ports, with Kenneth Gillingham. In Review. [Working Paper] [NBER Working Paper] [ZEW Discussion Paper]
+- Racial Disparities in the Health Effects from Air Pollution: Evidence from Ports. *In Review*. (with Kenneth Gillingham).
 
 ## Peer-Reviewed Journal Articles
 
-- The Climate and Health Benefits from Intensive Energy Efficiency Improvements. (2021). *Science Advances*. (with Kenneth Gillingham, Colby Buehler, Jordan Peccia, and Drew Gentner)
+- [The Climate and Health Benefits from Intensive Energy Efficiency Improvements](/publication/2015-10-01-paper-title-number-3). (2021). *Science Advances*. (with Kenneth Gillingham, Colby Buehler, Jordan Peccia, and Drew Gentner)
 - Long-Run Environmental and Economic Impacts of Electrifying Ports in the United States. (2020). *Environmental Science & Technology* (with Kenneth Gillingham)
 - Is Abundant Natural Gas a Bridge to a Low-Carbon Future or a Dead-end?. (2019). *Energy Journal*. (with Kenneth Gillingham)
 - Developing Precautionary Reference Points for Fishery Management Using Robust Control Theory: Application to the Chesapeake Bay Blue Crab Fishery. (2019). *Marine and Coastal Fisheries*. (with Michael Wilberg et al.)
@@ -23,7 +23,7 @@ author_profile: true
 
 ## Other Publications
 
-- Shipping Shapes Health. (2021). *Public Health Post*. (with Kenneth Gillingham)
+- [Shipping Shapes Health](https://www.publichealthpost.org/research/shipping-shapes-health/). (2021). *Public Health Post*. (with Kenneth Gillingham)
 
 ## Work in Progress
 
