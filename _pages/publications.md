@@ -27,5 +27,5 @@ author_profile: true
 
 ## Work in Progress
 
-- Linking Disaggregated Emissions Trading Systems, with Jan Abrell and Sebastian Rausch.
+- Linking Disaggregated Emissions Trading Systems. (with Jan Abrell and Sebastian Rausch).
 - Air Pollution and Gun Violence.
