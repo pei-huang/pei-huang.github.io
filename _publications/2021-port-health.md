@@ -8,7 +8,7 @@ venue: 'NBER Working Paper'
 
 Kenneth Gillingham and Pei Huang
 
-![Marginal damage of air pollution by race](/images/paper-2021-port-health.png "Marginal damage of air pollution by race"){:height="330px" width="360px"}
+![Marginal damage of pollution by race](/images/paper-2021-port-health.png "Marginal damage of pollution by race"){:height="330px" width="360px"}
 
 ## Availability
 
