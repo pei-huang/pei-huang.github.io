@@ -13,7 +13,7 @@ Kenneth Gillingham and Pei Huang
 
 <p><img src="https://pei-huang.github.io/images/paper-2021-port-health.png" width=50% height=50% /></p>
 
-![Avoided premature deaths](/images/paper-2021-port-health.png "Avoided premature deaths"){:height="36px" width="36px"}
+![Marginal damage of air pollution by race](/images/paper-2021-port-health.png "Marginal damage of air pollution by race"){:height=50% width=50%}
 
 ## Availability
 
