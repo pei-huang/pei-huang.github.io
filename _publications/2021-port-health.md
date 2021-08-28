@@ -10,13 +10,9 @@ venue: 'NBER Working Paper'
 
 Kenneth Gillingham and Pei Huang
 
+[Working paper](/files/2021_WP_Port_Health.pdf) | [NBER Working Paper](https://www.nber.org/papers/w29108) | [ZEW Discussion Paper](https://www.zew.de/publikationen/racial-disparities-in-the-health-effects-from-air-pollution-evidence-from-ports)
+
 ![Marginal damage of pollution by race](/images/paper-2021-port-health.png "Marginal damage of pollution by race"){:height="330px" width="360px"}
-
-## Availability
-
-- [Working paper](/files/2021_WP_Port_Health.pdf)
-- [NBER Working Paper #29108](https://www.nber.org/papers/w29108)
-- [ZEW Discussion Paper](https://www.zew.de/publikationen/racial-disparities-in-the-health-effects-from-air-pollution-evidence-from-ports)
 
 ## Abstract
 
