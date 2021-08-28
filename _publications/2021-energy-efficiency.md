@@ -9,7 +9,7 @@ Kenneth Gillingham, Pei Huang, Colby Buehler, Jordan Peccia, and Drew Gentner
 
 ![Avoided premature deaths](/images/paper-2021-energy-efficiency.png "Avoided premature deaths")
 
-## Paper Versions
+## Paper Availability
 
 - [Published version (open access)](https://advances.sciencemag.org/content/7/34/eabg0947)
 - [Final working paper](/files/2021_SciAdv_EE_Main.pdf)
