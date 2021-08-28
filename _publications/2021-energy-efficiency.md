@@ -5,6 +5,8 @@ permalink: /publication/2021-energy-efficiency
 date: 2021-08-20
 venue: 'Science Advances'
 ---
+{% include base_path %}
+
 Kenneth Gillingham, Pei Huang, Colby Buehler, Jordan Peccia, and Drew Gentner
 
 ![Avoided premature deaths](/images/paper-2021-energy-efficiency.png "Avoided premature deaths")
