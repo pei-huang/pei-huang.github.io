@@ -3,6 +3,7 @@ title: "Racial Disparities in the Health Effects from Air Pollution: Evidence fr
 collection: publications
 permalink: /publication/2021-port-health
 date: 2021-08-02
+venue: 'Working Paper'
 ---
 Kenneth Gillingham and Pei Huang
 
