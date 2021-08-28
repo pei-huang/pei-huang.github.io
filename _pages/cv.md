@@ -24,4 +24,4 @@ redirect_from:
 
 
 
-Full [CV](http://pei-huang.github.io/files/pei-huang-cv.pdf) in PDF
+Full [CV](/files/pei-huang-cv.pdf) in PDF
