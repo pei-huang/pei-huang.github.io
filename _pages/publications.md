@@ -23,7 +23,7 @@ author_profile: true
 - [Is Abundant Natural Gas a Bridge to a Low-Carbon Future or a Dead-end?](/publication/2019-natural-gas). (2019). *Energy Journal*. (with Kenneth Gillingham)
 - [Developing Precautionary Reference Points for Fishery Management Using Robust Control Theory: Application to the Chesapeake Bay Blue Crab Fishery](/publication/2019-robust-fishery). (2019). *Marine and Coastal Fisheries*. (with Michael Wilberg et al.)
 - [Value of Decadal Climate Variability Information for Agriculture in the Missouri River Basin](/publication/2016-dcv). (2016). *Climatic Change*. (with Mario Fernandez et al.)
-- An Inverse Demand System for the Differentiated Blue Crab Market in Chesapeake Bay. (2015). *Marine Resource Economics*.
+- [An Inverse Demand System for the Differentiated Blue Crab Market in Chesapeake Bay](/publication/2015-fish-demand). (2015). *Marine Resource Economics*.
 - Management Evaluation for the Chesapeake Bay Blue Crab Fishery: An Integrated Bioeconomic Approach. (2015). *North American Journal of Fisheries Management*. (with Richard Woodward et al.)
 
 ## Other Publications
