@@ -17,6 +17,10 @@ Kenneth Gillingham and Pei Huang
 - [Final working paper](/files/2020_EST_PE_Main.pdf)
 - [Supplementary information](/files/2020_EST_PE_SI.pdf)
 
+## Media
+
+- [*Nature Reviews Earth & Environment*](https://www.nature.com/articles/s43017-020-0090-6)
+
 ## Abstract
 
 Emissions from ships in and surrounding ports are a major contributor to urban air pollution in coastal and inland riverside cities. Connecting docked ships to onshore grid electricity and using electric tugboats are two approaches to reduce pollution damages. This paper examines the effects of the widespread adoption of electrification in waterborne shipping. Our study is novel in the use of an equilibrium model of the U.S. energy system to capture the effects of increasing electricity generation to electrify waterborne shipping both with and without a carbon pricing policy. We examine three scenarios, Electrifying in ports, Electrifying in Emission Control Areas, and Electrifying all U.S. vessel fuels, as well as an electrification scenario under carbon pricing, allowing electrification of waterborne shipping to contribute to deeper decarbonization. We find that electrification results in slight carbon emission reductions in early projected years and that the reductions increase as the electric grid evolves out to 2050. We also show that an ambitious scenario of electrifying all U.S. vessel fuels results in up to 65% net reduction in air pollution as we approach 2050, even after accounting for the pollution increase from grid generation. Our baseline results indicate that intensive waterborne shipping electrification can provide considerable social benefits that exceed the costs, especially as the electric grid decarbonizes.

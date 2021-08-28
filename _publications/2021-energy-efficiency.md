@@ -17,6 +17,10 @@ Kenneth Gillingham, Pei Huang, Colby Buehler, Jordan Peccia, and Drew Gentner
 - [Final working paper](/files/2021_SciAdv_EE_Main.pdf)
 - [Supplementary materials](/files/2021_SciAdv_EE_SM.pdf)
 
+## Media
+
+- [YSE News](https://environment.yale.edu/news/article/efficient-buildings-could-save-thousands-of-lives-in-us-every-year)
+
 ## Abstract
 
 Intensive building energy efficiency improvements can reduce emissions from energy use, improving outdoor air quality and human health, but may also affect ventilation and indoor air quality. This study examines the effects of highly ambitious, yet feasible, building energy efficiency upgrades in the United States. Our energy efficiency scenarios, derived from the literature, lead to a 6 to 11% reduction in carbon dioxide emissions and 18 to 25% reductions in particulate matter ($PM_{2.5}$) emissions in 2050. These reductions are complementary with a carbon pricing policy on electricity. However, our results also point to the importance of mitigating indoor $PM_{2.5}$ emissions, improving $PM_{2.5}$ filtration, and evaluating ventilation-related policies. Even with no further ventilation improvements, we estimate that intensive energy efficiency scenarios could prevent 1800 to 3600 premature deaths per year across the United States in 2050. With further investments in indoor air quality, this can rise to 2900 to 5100.

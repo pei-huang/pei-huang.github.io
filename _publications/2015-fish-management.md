@@ -9,6 +9,8 @@ venue: 'North American Journal of Fisheries Management'
 
 Pei Huang, Richard T. Woodward, Michael J. Wilberg, and David Tomberlin
 
+*Selected as the best paper award for the journal in 2015*
+
 ## Availability
 
 - [Published version](https://www.tandfonline.com/doi/abs/10.1080/02755947.2014.986342)
