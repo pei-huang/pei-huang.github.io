@@ -6,7 +6,7 @@ date: 2021-08-02
 ---
 Kenneth Gillingham and Pei Huang
 
-[INSERT A FIGURE]
+![Marginal damage of pollution by race](/images/paper-2021-port-health.pdf "Marginal damage of pollution by race")
 
 ## Paper Availability
 
