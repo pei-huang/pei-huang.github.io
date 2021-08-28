@@ -11,6 +11,11 @@ author_profile: true
 
 - [Racial Disparities in the Health Effects from Air Pollution: Evidence from Ports](/publication/2021-port-health). *In Review*. (with Kenneth Gillingham).
 
+## Work in Progress
+
+- Linking Disaggregated Emissions Trading Systems. (with Jan Abrell and Sebastian Rausch).
+- Air Pollution and Gun Violence.
+
 ## Peer-Reviewed Journal Articles
 
 - [The Climate and Health Benefits from Intensive Building Energy Efficiency Improvements](/publication/2021-energy-efficiency). (2021). *Science Advances*. (with Kenneth Gillingham et al.)
@@ -24,8 +29,3 @@ author_profile: true
 ## Other Publications
 
 - [Shipping Shapes Health](https://www.publichealthpost.org/research/shipping-shapes-health/). (2021). *Public Health Post*. (with Kenneth Gillingham)
-
-## Work in Progress
-
-- Linking Disaggregated Emissions Trading Systems. (with Jan Abrell and Sebastian Rausch).
-- Air Pollution and Gun Violence.
