@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Papers
 
-- Racial Disparities in the Health Effects from Air Pollution: Evidence from Ports. *In Review*. (with Kenneth Gillingham).
+- [Racial Disparities in the Health Effects from Air Pollution: Evidence from Ports](/publication/2021-port-health). *In Review*. (with Kenneth Gillingham).
 
 ## Peer-Reviewed Journal Articles
 
