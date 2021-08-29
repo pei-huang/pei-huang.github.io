@@ -9,11 +9,15 @@ author_profile: true
 
 ## Heidelberg University
 
-- Co-taught *Quantitative Methods in Environmental and Energy Economics* (master), Summer 2021.
+- *Quantitative Methods in Environmental and Energy Economics* (master)
+  - Co-Instructor, Summer 2021.
 
 ## Texas A&M University
 
-- Co-taught *Applied Mathematical Programming* (Ph.D.), Fall 2014 & Fall 2013.
-- Assisted teaching *Environmental and Resource Economics* (undergraduate),  Spring 2015.
-- Assisted teaching *Agribusiness Management* (undergraduate), Spring 2012.
-
+- *Applied Mathematical Programming* (Ph.D.)
+  - Co-Instructor, Autumn 2013.
+  - Co-Instructor, Autumn 2014.
+- *Environmental and Resource Economics* (undergraduate)
+  - Teaching Assistant, Spring 2015.
+- *Agribusiness Management* (undergraduate)
+  - Teaching Assistant, Spring 2012.
