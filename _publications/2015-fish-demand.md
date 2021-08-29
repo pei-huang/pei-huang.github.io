@@ -9,7 +9,7 @@ venue: 'Marine Resource Economics'
 
 Pei Huang
 
-[Published version](https://www.journals.uchicago.edu/doi/10.1086/679971)
+[Published version](https://www.journals.uchicago.edu/doi/10.1086/679971){: .btn .btn--primary}
 
 ## Abstract
 

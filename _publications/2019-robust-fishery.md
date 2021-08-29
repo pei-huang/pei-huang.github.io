@@ -9,7 +9,7 @@ venue: 'Marine and Coastal Fisheries'
 
 Michael J. Wilberg, Richard T. Woodward, Pei Huang, and David Tomberlin
 
-[Published version (open access)](https://afspubs.onlinelibrary.wiley.com/doi/10.1002/mcf2.10069), [Final working paper](/files/2019_MCF_RobustFishery.pdf)
+[Published version (open access)](https://afspubs.onlinelibrary.wiley.com/doi/10.1002/mcf2.10069){: .btn .btn--primary} [Final working paper](/files/2019_MCF_RobustFishery.pdf){: .btn .btn--primary}
 
 ## Abstract
 

@@ -9,13 +9,11 @@ venue: 'Environmental Science & Technology'
 
 Kenneth Gillingham and Pei Huang
 
-[Published version](https://pubs.acs.org/doi/full/10.1021/acs.est.0c03298), [Final working paper](/files/2020_EST_PE_Main.pdf), [Supplementary information](/files/2020_EST_PE_SI.pdf)
+[Published version](https://pubs.acs.org/doi/full/10.1021/acs.est.0c03298){: .btn .btn--primary} [Final working paper](/files/2020_EST_PE_Main.pdf){: .btn .btn--primary} [Online appendix](/files/2020_EST_PE_SI.pdf){: .btn .btn--primary}
+
+[*Nature Reviews Earth & Environment*](https://www.nature.com/articles/s43017-020-0090-6){: .btn .btn--info}
 
 ![Effect of port electrification on CO2 emissions](/images/paper-2020-port-electrification.png "Effect of port electrification on CO2 emissions"){:height="290.47px" width="516.15px"}
-
-## Media
-
-- [*Nature Reviews Earth & Environment*](https://www.nature.com/articles/s43017-020-0090-6)
 
 ## Abstract
 

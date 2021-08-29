@@ -9,7 +9,7 @@ venue: 'Science Advances'
 
 Kenneth Gillingham, Pei Huang, Colby Buehler, Jordan Peccia, and Drew Gentner
 
-[Published version (open access)](https://advances.sciencemag.org/content/7/34/eabg0947){: .btn .btn--primary} [Final working paper](/files/2021_SciAdv_EE_Main.pdf){: .btn .btn--primary} [Supplementary materials](/files/2021_SciAdv_EE_SM.pdf){: .btn .btn--primary}
+[Published version (open access)](https://advances.sciencemag.org/content/7/34/eabg0947){: .btn .btn--primary} [Final working paper](/files/2021_SciAdv_EE_Main.pdf){: .btn .btn--primary} [Online appendix](/files/2021_SciAdv_EE_SM.pdf){: .btn .btn--primary}
 
 [YSE News](https://environment.yale.edu/news/article/efficient-buildings-could-save-thousands-of-lives-in-us-every-year){: .btn .btn--info}
 
