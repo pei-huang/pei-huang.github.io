@@ -11,7 +11,7 @@ Kenneth Gillingham, Pei Huang, Colby Buehler, Jordan Peccia, and Drew Gentner
 
 [Published version (open access)](https://advances.sciencemag.org/content/7/34/eabg0947){: .btn .btn--primary} [Final working paper](/files/2021_SciAdv_EE_Main.pdf){: .btn .btn--primary} [Online appendix](/files/2021_SciAdv_EE_SM.pdf){: .btn .btn--primary}
 
-[YSE News](https://environment.yale.edu/news/article/efficient-buildings-could-save-thousands-of-lives-in-us-every-year){: .btn .btn--info}
+[YSE News](https://environment.yale.edu/news/article/efficient-buildings-could-save-thousands-of-lives-in-us-every-year){: .btn .btn--info} [Tech Times](https://www.techtimes.com/articles/264430/20210822/new-energy-efficient-building-plans-unveiled-study-experts-believe-decrease.htm){: .btn .btn--info} [Science Times](https://www.sciencetimes.com/articles/33000/20210823/energy-efficiency-buildings-decrease-thousands-premature-deaths-annually-according-study.htm){: .btn .btn--info}
 
 ![Avoided premature deaths](/images/paper-2021-energy-efficiency.png "Avoided premature deaths"){:height="336px" width="576px"}
 
